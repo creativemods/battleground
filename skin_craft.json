@@ -1,0 +1,358 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Kawaii Skin",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":2,
+      "judul":"Dream Skin",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":3,
+      "judul":"Zombie Skin",
+      "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
+    }
+  ],
+  "Skin":
+  [
+    {
+    "id":1,
+    "nama_skin":"Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/YQbqb6VWwAJlmiT7TgJzV9GFpZ5QjhVS75e41vYaIcXR-jvmAaobz45yHLi0Cgt9PGwMSobVVDCVoU8eRh4RrA"
+  },
+  {
+    "id":2,
+    "nama_skin":"PUBG Cosplay",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg_cosplay.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZshSnGqwCd_gZfPuWWA7PbM94dMi4zrAWqFfiEKztXvWyaHYOkbKDrFRpf1uPmr05JIUMM5PmnOae24qJGGd"
+  },
+  {
+    "id":3,
+    "nama_skin":"Firaun Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/firaun_pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/Odlwn3VBEJlxleXXsWxX7VznPSjypUk61-L796nzdtq53cd249LQUDa2qAltCdz0O1zEzW3RIJ6bEnd4OallCxI"
+  },
+  {
+    "id":4,
+    "nama_skin":"Pubg 1",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-1.png",
+    "view_skin":"https://lh3.googleusercontent.com/iJMSuxyCabW-UohmWK8Y45p4B55haHt0z3SVNOqSGth01ETRrVkDxJIgX-fzqqI5e0ZBZw5hyUpHNZTBCt4l"
+  },
+  {
+    "id":5,
+    "nama_skin":"Pubg 2",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/5w-it3ItiBo3I1ktWI8x6LCjluP7H8mb0ODysRJChNBsVdi6G0nxvrxtrLbTgWhZlrmyTstqIsMe-ts1Owfj6w"
+  },
+  {
+    "id":6,
+    "nama_skin":"Hyper The PUBG Player",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/hyper-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/p85JBfYLY0nN4O1L1Qz2jwMokWkYTCBx8Ylu5fMoShjMxc6PI1Ox7-WuQnO__8wdnOsFwJKA9DLXi13_C0io5A"
+  },
+  {
+    "id":7,
+    "nama_skin":"PUBG Bao Dep Zai",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-bao.png",
+    "view_skin":"https://lh3.googleusercontent.com/904c_O5JOgssnBsvUPdXMCKHZEZonV2DERVgz0Yc78VOBtlRGuU52lAAPYjGHqPD3U-O-Gzt8GKmuHlTS7w4"
+  },
+  {
+    "id":8,
+    "nama_skin":"Pubg Assasin",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-assasin.png",
+    "view_skin":"https://lh3.googleusercontent.com/op1dlM_JIbM9GunhgK3nQ9HLJ1DNxo8I8u5C0DpCpxsIacIUOEBIz4Y_ycPwh898Yb1qt9ieUV2aI4bdxWEk_Q"
+  },
+  {
+    "id":9,
+    "nama_skin":"Lyra JJ PUBG",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/lyra-jj-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/qqcD-J2eAQ60PUNm0nz0FnefY_YebLmaBW8qdaolhA5v9oW6-RB9_xJ-tjy0A1dku8Kf_CiVyW__jiiUz6x3Cg"
+  },
+  {
+    "id":10,
+    "nama_skin":"Pubg Team",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-team.png",
+    "view_skin":"https://lh3.googleusercontent.com/ruub-saZ-eQ9Wz3j51aUOhRXa8N9nZS9_Z4iSC5FVu2OvnridZIfqS9JOzLcOIbimEiGdZzP9WGVZvDbv0Vv_g"
+  },
+  {
+    "id":11,
+    "nama_skin":"Steve HD 365 Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/steve-hd.png",
+    "view_skin":"https://lh3.googleusercontent.com/thkWf8JMWL3xpd20dD5vvesAxI8yPiPT9z3sqihcKM7H4gIbydG5UicN97jm64NTBq-AdFlY5Bb5iBgPWJELHg"
+  },
+  {
+    "id":12,
+    "nama_skin":"Pubg Rtq",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-rtq.png",
+    "view_skin":"https://lh3.googleusercontent.com/fMJJd6mFApbZqXl7NCc77Ir5OEg1V1LktCJUwHBwC1jexdod6bjwYXlfzyaNtYucUISFM-mWFtUMapHuV3x7dQ"
+  },
+  {
+    "id":13,
+    "nama_skin":"Pubg Player",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-player.png",
+    "view_skin":"https://lh3.googleusercontent.com/qFOghEpcbxA640Un5ZsuFyF8Es3ad969lENJgom0U77rHl-MUxF1m-wzoIwJvXUxbDzOibMMXAXQ-3IariBgTks"
+  },
+  {
+    "id":14,
+    "nama_skin":"Fredinator Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/fredinator-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/39OG9XOvXZBTL6M6SxFM6arJ8aA7EOveP_lK_sEgEL29GnntzMdczgNAuWOheRHJVtOSpkcdvxd3xM2C3QD5zQ"
+  },
+  {
+    "id":15,
+    "nama_skin":"Pubg Jo",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-jo.png",
+    "view_skin":"https://lh3.googleusercontent.com/JlMBQ2fl9X2DRE_W0dHKJOzLKY33uvsmAEAcEuEEYdM826gLT7M97J9c39_5uU_MhtyQ44GhKddnoXelNd_q"
+  },
+  {	
+	 "id":16,
+    "nama_skin":"PUBG New Character",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-new-character.png",
+    "view_skin":"https://lh3.googleusercontent.com/-TpfbKdyzduy1F268ZBOOXMNa8CX3xQRrRXw8YnkkncF-8yTRD6Znf86wIjv1UoqjVPhykBfXeH_o_E20EemLg"
+  },
+  {
+    "id":17,
+    "nama_skin":"Pubg Minecraft Guy",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-minecraft.png",
+    "view_skin":"https://lh3.googleusercontent.com/aIP-cY6tyR18VrYoRp9CxOk-RmaFeWd0x2Cf_Xcd5NL0vgzqHoglrQRaTkrrb1mddDWTcl1tn1fQ5BddhqoNdSg"
+  },
+  {
+    "id":18,
+    "nama_skin":"Pubg Gamer",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-gamer.png",
+    "view_skin":"https://lh3.googleusercontent.com/ELj8I2rPxwAzPa19TdhQLLmlhe8bpzPISMSmPIBMAKbkzdN4ukogP3017lc_DdfYqkdqNiu7Huzu45Ug4cC6"
+  },
+  {
+    "id":19,
+    "nama_skin":"Pubg Mc Mcpc",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-mc-mcpc.png",
+    "view_skin":"https://lh3.googleusercontent.com/jZ7FDopyvhV4PLApsORh5fRGw2hep5aWsxlbWo9p7n-6uetCvybJ3li7scOjsTyJ3FPF4HMOqteftBF8Swf6"
+  },
+  {
+    "id":20,
+    "nama_skin":"Gamedroid Pubg",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/gamedroid-pubg.png",
+    "view_skin":"https://lh3.googleusercontent.com/DI66SdCTJqqJe7ge_mrTn8bSblLwmTkUR7dwGOlnEo-Gnxb2dszoFnu5nSCh5KvBI3_1HX1o78PJ3uqZBAZ90g"
+  },
+  {
+    "id":21,
+    "nama_skin":"Pubg Chicken",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-chicken.png",
+    "view_skin":"https://lh3.googleusercontent.com/ie3Dnzydu3qmEZTnAX7-A_XJj3Mvvc8CB97NjyyDDw0_GFBVweADVtGZjlHMD16ms2wNTI6iznEniCsooOtgOQ"
+  },
+  {
+    "id":22,
+    "nama_skin":"Pubg Rainbow",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-rainbow.png",
+    "view_skin":"https://lh3.googleusercontent.com/1SSNQsyjS0mkYCyq2b0csTmZx145UzEbmUUgFjPSc7WcuNkq9F74xml3WeFXlyT6yPczgvXrRB42uFe3lnZBaKo"
+  },
+  {
+    "id":23,
+    "nama_skin":"Pubg Minecaft",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-minecaft.png",
+    "view_skin":"https://lh3.googleusercontent.com/jqvH9UMWFqGID5bYZv6t_0_xpXSbBqrwydt_pK7ZK4jWnZq34Th5k9rLDCZC3M9M0ULThWdiH3nCyWhpw9Q_qQ"
+  },
+  {
+    "id":24,
+    "nama_skin":"Pubg Adam",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-adam.png",
+    "view_skin":"https://lh3.googleusercontent.com/bwMM6sagGwSsq-VzKx_jUGhepAnybP1FN593dJQ4ztVd_JeJCeowvemg7bToEAMuj3VvaLIYkw3pwt7WzWdsRKk"
+  },
+
+  {
+    "id":25,
+    "nama_skin":"PUBG Girl",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/KxDQtfqla7yVvP8_6k2EY5p4mArsYxrUoLg7YxQfZdKiYU9kPG9XpHtBhkDMVgLMLfDzeIycNi1UZru5L2Z8MQ"
+  },
+  {
+    "id":26,
+    "nama_skin":"Pubg LIte Skin",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-lite-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/EBOHa1VdDDKNF-VKbP_3ThVauxO2pF0KwlKS8U6uzaHArIwNfZhWjIkIKbw1DowqI4ftXlLJ-X0IDZKatF0LFA"
+  },
+  {
+    "id":27,
+    "nama_skin":"PUBG Lol",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-lol.png",
+    "view_skin":"https://lh3.googleusercontent.com/u48l4a4xbIZjJkYRfgMINJF9F0nrePX1vtwrzyjar6wIrrX9Sxk1dftUX6c_Z59291jqt7XnQRyB3AeeK2ly"
+  },
+  {
+    "id":28,
+    "nama_skin":"PUBG Creeper Mode",
+    "skin_url":"https://ia601400.us.archive.org/24/items/pubg-chicken/pubg/pubg-creeper.png",
+    "view_skin":"https://lh3.googleusercontent.com/1df0AE95OnpZzgxclBxqwGPHIr11_gnkt9HAXX8xOd7qgLg3YGHnow8SX2f2dcmrHYFrm0Vi6Rtu8rpZTV21"
+  },
+  {
+    "id":29,
+    "nama_skin":"Pubg Noob Player",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-noob-player.png",
+    "view_skin":"https://lh3.googleusercontent.com/5iq_-8DxkNGln01JF2qXx6ZlwXVXV38-oNH_NCwTL-899z5_6gslSZwWdwfQua7EnDlS2uVI-TkejltAjoU37g"
+  },
+  {
+    "id":30,
+    "nama_skin":"Pubg Navidad",
+    "skin_url":"https://ia801400.us.archive.org/24/items/pubg-chicken/pubg/pubg-navidad.png",
+    "view_skin":"https://lh3.googleusercontent.com/yPoHwSzAKnIxF9PA3WPCLWex5tuUeHsXBJEJZt41ajwBVeXxHJ4GgoLiHNK2cLqmucbd-7U8KEv8_P3tTHae8A"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Laser Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/Laserguns.zip",
+      "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
+      "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
+      "view_add":"https://creativemods.github.io/boboi/addon/laserguns.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"Number Blocks Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/blocks.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":3,
+      "nama_add":"The Imposter",
+      "add_url":"https://creativemods.github.io/boboi/addon/Imposter.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Uncrafting Table",
+      "add_url":"https://creativemods.github.io/boboi/addon/Uncraftingtable.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Furniture",
+      "add_url":"https://creativemods.github.io/boboi/addon/furniture.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Guns",
+      "add_url":"https://creativemods.github.io/boboi/addon/guns.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Dynamite Projectile Addon",
+      "add_url":"https://creativemods.github.io/boboi/addon/dynamite.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
+      "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
+      "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/actualguns.png",
+      "des_add":"https://creativemods.github.io/boboi/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/bedrock.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among Us Map",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
+      "view_map":"https://ia801509.us.archive.org/27/items/amonguscraft_202010/map/Among-us-Map.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Among Us Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":5,
+      "nama_map":"Among Craft",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":6,
+      "nama_map":"Achievement World",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":7,
+      "nama_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    },
+    {
+      "id":8,
+      "nama_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
+      "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
+	    "des_map":"https://creativemods.github.io/boboi/map.html"
+    }
+  ]
+}
